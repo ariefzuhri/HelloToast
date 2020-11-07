@@ -1,3 +1,2 @@
-# HelloToast
-Pertemuan 02 - Praktikum Pemrograman Perangkat Bergerak 1 
-Membuat aplikasi HelloToast dengan relative layout
+# Membuat aplikasi HelloToast dengan relative layout
+Pertemuan 02 - Praktikum Pemrograman Aplikasi Perangkat Bergerak 1
